@@ -21,10 +21,7 @@
 
 ---
 
-## 👨‍🏫 Faculty Information
-
-**Faculty Name:** Mr. Deepak Asudani  
-**Subject:** Machine Learning Lab 
+**Faculty:** Mr. Deepak Asudani  
 
 ---
 

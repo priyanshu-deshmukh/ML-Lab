@@ -169,7 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - **Mr. Deepak Asudani** - Faculty guide and mentor
-- **College/University Name** <!-- Add your institution name -->
+- **Symbiosis Institute of Technology, Nagpur**
 - scikit-learn and Python community for excellent documentation
 
 ---

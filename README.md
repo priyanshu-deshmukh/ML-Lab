@@ -49,6 +49,7 @@ ML-Lab/
 ├── Lab-12/         # Polynomial Regression
 ├── Lab-13/         # K-Means Clustering
 ├── Lab-14/         # Association Rule Mining (Apriori)
+├── Lab-15/         # Artificial Neural Network
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -128,7 +129,7 @@ ML-Lab/
 | 12 | Polynomial Regression | Non-linear relationships |
 | 13 | K-Means Clustering | Unsupervised learning, clustering |
 | 14 | Association Rules | Apriori algorithm, market basket analysis |
-| 15 | Basic Artificial Neural Network (ANN) |
+| 15 | Basic Artificial Neural Network (ANN) | Artificial Neural Network |
 
 
 ---
